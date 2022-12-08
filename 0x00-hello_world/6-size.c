@@ -24,7 +24,7 @@ int main(void)
 
 		        printf("Type pointer: %lu byte(s)\n", sizeof(void *));
 
-			  return 0;
+			  return (0);
 
 }
 
