@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _atoi - convert string to an interger
- * @s pointer to a character string
+ * @s: pointer to a character string
  *
  * Return: void
  */
