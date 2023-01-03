@@ -2,8 +2,9 @@
 #include <unistd.h>
 
 /**
- * main - prints exactly and that piece of art is useful
- * return: Always 1 (Success)
+ * main - Entry point (and that piece of art is useful)
+ *
+ * return: 1 (success)
  */
 
 int main(void)
