@@ -8,9 +8,9 @@
  */
 int helperFunction(int num, int pSqrt)
 {
-	if ((pSqrt * Psqrt) == num)
+	if ((pSqrt * pSqrt) == num)
 	{
-		return (pSqqrt);
+		return (pSqrt);
 	}
 	else
 	{
