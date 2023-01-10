@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include <stdio,h>
+#include <stdio.h>
 /**
  * wordnos - counts no of words in a given string
  * @s: pointer to the string
