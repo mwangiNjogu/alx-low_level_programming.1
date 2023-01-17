@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int _strlen(char *str);
-char *_strcopy(char *dest, char *src);
+char *_strcpy(char *dest, char *src);
 dog_t *new_dog(char *name, float age, char *owner);
 
 /**
@@ -21,13 +21,13 @@ int _strlen(char *str)
 	return (len);
 }
 /**
- * _strcopy  copies a string pointed to by src, including the
+ * _strcpy  copies a string pointed to by src, including the
  * terminating null byte, to a buffer pointed to by dest
  * @dest: the buffer storing the string copy
  * @src: the source string
  * Return: the pointer to dest
  */
-char *_strcopy(char *dest, char *src)
+char *_strcpy(char *dest, char *src)
 {
 	int index = 0;
 
