@@ -1,5 +1,6 @@
 #include "3-calc.h"
-/** op_add - calculates the sume of two intergers
+/**
+ * op_add - calculates the sume of two intergers
  * @a: first interger
  * @b: second interger
  *
@@ -46,7 +47,7 @@ int op_div(int a, int b)
 
 /**
  * op_mod - calculates the remainder of the division of two intergers
- * @: first interger
+ * @a: first interger
  * @b: second interger
  *
  * Return: remaiinder of a divided b
